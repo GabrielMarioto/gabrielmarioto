@@ -5,6 +5,7 @@ Aqui é possivel ver um pouco das tecnologias que aprendi durante a faculdade e 
 
 # Tecnologias 🔓
 <div align="center">  
+  
   <img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
   <img align="center" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -18,18 +19,13 @@ Aqui é possivel ver um pouco das tecnologias que aprendi durante a faculdade e 
   <img align="center" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   <img align="center" color="white" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div> 
 
-
-
-# Aprendendo 🔒
-<div align="center">
   <img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img align="center" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
   <img align="center" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" color="white" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
-<br>
+  
+</div> 
 
 # Stats 🖥
 
